@@ -14,7 +14,7 @@
    Libraries:
                 - LiquidCrystal_I2C library
 
-   Created on 29 June 2022 by arazak467
+   Created on 29 June 2022 by c010rblind3ngineer
 */
 
 #include <LiquidCrystal_I2C.h>
