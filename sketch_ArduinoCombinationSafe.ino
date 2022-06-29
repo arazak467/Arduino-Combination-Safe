@@ -2,10 +2,10 @@
 
    Components:
                 - Arduino Uno
-                - 4 x Green LED
-                - 4 x 10KOhm potentiometer
-                - 4 x 1kOhm resistor
-                - 220 Ohm resistor
+                - Green LED (x 4)
+                - 10KOhm potentiometer (x 4)
+                - 1kOhm resistor (x 4)
+                - 220Ohm resistor
                 - LCD I2C (20x4)
                 - Passive Buzzer
                 - Push button tactile switch
